@@ -1,0 +1,12 @@
+[submodule "classic-c"]
+	path = classic-c
+	url = git@github.com:DC-Zhou/classic-c.git
+[submodule "cpp-boost"]
+	path = cpp-boost
+	url = git@github.com:DC-Zhou/cpp-boost.git
+[submodule "cpp-template"]
+	path = cpp-template
+	url = git@github.com:DC-Zhou/cpp-template.git
+[submodule "cpp-stl"]
+	path = cpp-stl
+	url = git@github.com:DC-Zhou/cpp-stl.git
